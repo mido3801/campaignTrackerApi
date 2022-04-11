@@ -1,3 +1,4 @@
+"""Contains utilities and enums for database"""
 from enum import Enum
 
 

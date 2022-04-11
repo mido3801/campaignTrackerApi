@@ -1,0 +1,2 @@
+[Master]
+init-hook='import sys; sys.path.append("/home/mike/PycharmProjects/campaignTrackerApi")'

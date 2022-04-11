@@ -1,3 +1,4 @@
+"""Flask application entrypoint"""
 import os
 
 from api.app.app import create_app
